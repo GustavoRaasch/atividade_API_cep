@@ -11,10 +11,9 @@ de endereços através de um CEP.
 Foi utilizada a API simples ViaCEP.
 
 4. Tecnologias
-- HTML
-- CSS
-- JavaScript
+HTML
 
+CSS
 5. Como utilizar
 Digite um CEP válido no campo de pesquisa e clique
 no botão "Buscar".
